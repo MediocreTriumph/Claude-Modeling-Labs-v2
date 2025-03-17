@@ -47,7 +47,7 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/MediocreTriumph/Claude-Modeling-Labs.git
+   git clone https://github.com/MediocreTriumph/Claude-Modeling-Labs-v2.git
    cd Claude-Modeling-Labs
    ```
 
@@ -59,12 +59,12 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 
 4. **Install dependencies**:
    ```bash
-   pip install fastmcp httpx urllib3
+   pip install -r requirements.txt
    ```
 
 5. **Install the MCP server**:
    ```bash
-   fastmcp install src/main.py --name "Claude Modeling Labs"
+   fastmcp install cml_mcp.py --name "Claude Modeling Labs"
    ```
 
 ### Installation on Windows
@@ -75,7 +75,7 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 
 2. **Clone the repository**:
    ```cmd
-   git clone https://github.com/MediocreTriumph/Claude-Modeling-Labs.git
+   git clone https://github.com/MediocreTriumph/Claude-Modeling-Labs-v2.git
    cd Claude-Modeling-Labs
    ```
 
@@ -87,12 +87,12 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 
 4. **Install dependencies**:
    ```cmd
-   pip install fastmcp httpx urllib3
+   pip install -r requirements.txt
    ```
 
 5. **Install the MCP server**:
    ```cmd
-   fastmcp install src/main.py --name "Claude Modeling Labs"
+   fastmcp install cml_mcp.py --name "Claude Modeling Labs"
    ```
 
 ## How It Works
