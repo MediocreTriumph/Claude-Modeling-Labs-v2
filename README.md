@@ -14,7 +14,6 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 
 ## New in This Version
 
-- **Modular Architecture**: Code has been reorganized into logical modules for better maintainability
 - **Console Tools**: New functions for interacting with device consoles
 - **Diagnostic Tools**: Enhanced troubleshooting capabilities for verifying connectivity and protocols
 - **Improved Error Handling**: More consistent error reporting and recovery
