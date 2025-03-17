@@ -48,7 +48,7 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/MediocreTriumph/Claude-Modeling-Labs-v2.git
-   cd Claude-Modeling-Labs
+   cd Claude-Modeling-Labs-v2
    ```
 
 3. **Set up a virtual environment**:
@@ -76,7 +76,7 @@ Claude Modeling Labs provides a set of tools that enable Claude AI to interact w
 2. **Clone the repository**:
    ```cmd
    git clone https://github.com/MediocreTriumph/Claude-Modeling-Labs-v2.git
-   cd Claude-Modeling-Labs
+   cd Claude-Modeling-Labs-v2
    ```
 
 3. **Set up a virtual environment**:
